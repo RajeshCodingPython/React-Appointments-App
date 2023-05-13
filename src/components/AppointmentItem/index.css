@@ -1,0 +1,26 @@
+.listItam {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #ffffff;
+  height: 80px;
+  width: 250px;
+  border: 1px solid #b5b7c4;
+  border-radius: 9px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.nameElment {
+  font-size: 18px;
+  font-family: 'Robto';
+}
+.img-sizster {
+  height: 30px;
+  width: 30px;
+}
+.dateof {
+  font-size: 10px;
+}
